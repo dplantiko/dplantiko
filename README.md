@@ -1,4 +1,4 @@
-<h1>About me</h1>
+<h1>Hello there</h1>
 <p>
   I am David Plantiko. student from Marburg, Germany. I'm interested in GNU/Linux projects, and learning to code in C, C++ or Java.
 </p>

@@ -1,10 +1,10 @@
 <h1>Hello there</h1>
 <p>
-  I am David Plantiko. student from Marburg, Germany. I'm interested in GNU/Linux projects, and learning to code in C, C++ or Java.
+  I'm interested in GNU/Linux projects, and learning to code in C, C++ and Python.
 </p>
 <h2>Interested in...</h2>
 <p>
-  ...every project that has to do with Linux and C or C++. I am really trying to get involved and gain some experience!
+  ...every project that has to do with Linux and C or C++ and Python. I am really trying to get involved and gain some experience!
  <p>
   
 <!---
